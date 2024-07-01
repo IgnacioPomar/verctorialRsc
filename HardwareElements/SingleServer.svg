@@ -28,11 +28,12 @@
      inkscape:cx="296.12676"
      inkscape:cy="156.69014"
      inkscape:window-width="1920"
-     inkscape:window-height="1057"
+     inkscape:window-height="1027"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="1102"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g27" />
+     inkscape:current-layer="layer4"
+     showguides="true" />
   <defs
      id="defs1">
     <linearGradient
@@ -288,26 +289,6 @@
      id="g27"
      transform="translate(-23.547918,-101.7693)">
     <rect
-       style="fill:#b8b5b5;fill-opacity:1;fill-rule:evenodd;stroke:#e0e0e0;stroke-width:2.494;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect91-8"
-       width="9.260416"
-       height="24.870834"
-       x="24.794918"
-       y="160.79068"
-       rx="1.6392936"
-       ry="0"
-       inkscape:label="hearLeft" />
-    <rect
-       style="fill:#b8b5b5;fill-opacity:1;fill-rule:evenodd;stroke:#e0e0e0;stroke-width:2.494;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect91"
-       width="9.260416"
-       height="24.870834"
-       x="179.65208"
-       y="160.60201"
-       rx="1.6392936"
-       ry="0"
-       inkscape:label="hearright" />
-    <rect
        style="fill:url(#linearGradient91);fill-opacity:1;fill-rule:evenodd;stroke:#ebebeb;stroke-width:5.309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect47"
        width="142.82903"
@@ -317,6 +298,71 @@
        rx="1.2645979"
        ry="0"
        inkscape:label="Cuerpo" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="rackBracketRight"
+       transform="translate(23.547918,101.7693)">
+      <rect
+         style="fill:#b8b5b5;fill-opacity:1;fill-rule:evenodd;stroke:#e0e0e0;stroke-width:2.494;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect91"
+         width="9.260416"
+         height="24.870834"
+         x="179.65208"
+         y="160.60201"
+         rx="1.6392936"
+         ry="0"
+         inkscape:label="bracket"
+         transform="translate(-23.547918,-101.7693)" />
+      <circle
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8.48265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;paint-order:markers fill stroke"
+         id="path2-5-5"
+         cx="184.28229"
+         cy="179.72823"
+         r="1.7700998"
+         transform="translate(-23.547918,-101.7693)"
+         inkscape:label="bottomHole" />
+      <circle
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8.48265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;paint-order:markers fill stroke"
+         id="path2-1"
+         cx="184.28229"
+         cy="168.16853"
+         r="1.7700998"
+         transform="translate(-23.547918,-101.7693)"
+         inkscape:label="topHole" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="rackBracketLeft">
+      <rect
+         style="fill:#b8b5b5;fill-opacity:1;fill-rule:evenodd;stroke:#e0e0e0;stroke-width:2.494;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect91-8"
+         width="9.260416"
+         height="24.870834"
+         x="24.794918"
+         y="160.79068"
+         rx="1.6392936"
+         ry="0"
+         inkscape:label="bracket"
+         transform="translate(1.041667e-8)" />
+      <circle
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8.48265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;paint-order:markers fill stroke"
+         id="path2-5"
+         cx="29.425125"
+         cy="179.19533"
+         r="1.7700998"
+         transform="translate(1.041667e-8)"
+         inkscape:label="bottomHole" />
+      <circle
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8.48265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;paint-order:markers fill stroke"
+         id="path2"
+         cx="29.425127"
+         cy="167.63564"
+         r="1.7700998"
+         transform="translate(1.041667e-8)"
+         inkscape:label="topHole" />
+    </g>
     <ellipse
        style="fill:#868686;fill-opacity:1;stroke:#363333;stroke-width:2.52906;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="ellipse25"
