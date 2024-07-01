@@ -32,7 +32,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="1102"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="svg1"
      showguides="true" />
   <defs
      id="defs1">
@@ -284,24 +284,12 @@
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
-     inkscape:label="Server"
-     inkscape:groupmode="layer"
-     id="g27"
-     transform="translate(-23.547918,-101.7693)">
-    <rect
-       style="fill:url(#linearGradient91);fill-opacity:1;fill-rule:evenodd;stroke:#ebebeb;stroke-width:5.309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect47"
-       width="142.82903"
-       height="32.243587"
-       x="35.474419"
-       y="156.52312"
-       rx="1.2645979"
-       ry="0"
-       inkscape:label="Cuerpo" />
+     id="g7"
+     transform="translate(-23.547918,-101.7693)"
+     inkscape:label="Server">
     <g
-       inkscape:groupmode="layer"
-       id="layer3"
-       inkscape:label="rackBracketRight"
+       id="g6"
+       inkscape:label="rackBracket-Right"
        transform="translate(23.547918,101.7693)">
       <rect
          style="fill:#b8b5b5;fill-opacity:1;fill-rule:evenodd;stroke:#e0e0e0;stroke-width:2.494;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
@@ -332,9 +320,9 @@
          inkscape:label="topHole" />
     </g>
     <g
-       inkscape:groupmode="layer"
-       id="layer4"
-       inkscape:label="rackBracketLeft">
+       id="g5"
+       inkscape:label="rackBracket-Left"
+       transform="translate(1.041667e-8)">
       <rect
          style="fill:#b8b5b5;fill-opacity:1;fill-rule:evenodd;stroke:#e0e0e0;stroke-width:2.494;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
          id="rect91-8"
@@ -352,17 +340,28 @@
          cx="29.425125"
          cy="179.19533"
          r="1.7700998"
-         transform="translate(1.041667e-8)"
-         inkscape:label="bottomHole" />
+         inkscape:label="bottomHole"
+         transform="translate(1.041667e-8)" />
       <circle
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8.48265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;paint-order:markers fill stroke"
          id="path2"
          cx="29.425127"
          cy="167.63564"
          r="1.7700998"
-         transform="translate(1.041667e-8)"
-         inkscape:label="topHole" />
+         inkscape:label="topHole"
+         transform="translate(1.041667e-8)" />
     </g>
+    <rect
+       style="fill:url(#linearGradient91);fill-opacity:1;fill-rule:evenodd;stroke:#ebebeb;stroke-width:5.309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect47"
+       width="142.82903"
+       height="32.243587"
+       x="35.474419"
+       y="156.52312"
+       rx="1.2645979"
+       ry="0"
+       inkscape:label="Cuerpo"
+       transform="translate(1.041667e-8)" />
     <ellipse
        style="fill:#868686;fill-opacity:1;stroke:#363333;stroke-width:2.52906;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="ellipse25"
@@ -388,10 +387,9 @@
        ry="2.2049093"
        inkscape:label="LedGreen" />
     <g
-       inkscape:groupmode="layer"
-       id="layer1"
-       inkscape:label="disk2"
-       transform="matrix(0.26458333,0,0,0.26458333,84.990043,115.68164)">
+       id="g3"
+       inkscape:label="disk-2"
+       transform="matrix(0.26458333,0,0,0.26458333,84.990042,115.68164)">
       <rect
          class="cls-1"
          x="171.07375"
@@ -402,15 +400,19 @@
          id="rect8-9"
          style="fill:#e6e6e6;fill-opacity:1;stroke-width:2.29428"
          transform="matrix(-0.00610771,0.99998135,-0.9999746,-0.00712695,0,0)" />
-      <path
-         style="fill:#333842;fill-opacity:1;stroke:#575b63;stroke-width:4.77209;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-         d="m -35.142941,178.30848 -0.03046,29.02013"
-         id="path12-1" />
-      <path
-         style="fill:#333842;fill-opacity:1;stroke:#575b63;stroke-width:4.77209;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-         d="m -46.468375,178.22777 -0.03046,29.02012"
-         id="path12-3-6"
-         inkscape:label="path12-3" />
+      <g
+         id="g4"
+         inkscape:label="latch">
+        <path
+           style="fill:#333842;fill-opacity:1;stroke:#575b63;stroke-width:4.77209;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m -35.142941,178.30848 -0.03046,29.02013"
+           id="path12-1" />
+        <path
+           style="fill:#333842;fill-opacity:1;stroke:#575b63;stroke-width:4.77209;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m -46.468375,178.22777 -0.03046,29.02012"
+           id="path12-3-6"
+           inkscape:label="path12-3" />
+      </g>
       <ellipse
          class="cls-3"
          cx="193.44987"
@@ -423,10 +425,9 @@
          inkscape:label="diskLed" />
     </g>
     <g
-       inkscape:groupmode="layer"
-       id="layer2"
-       inkscape:label="disk"
-       transform="translate(20.108331,49.212428)">
+       id="g1"
+       transform="translate(20.108331,49.212427)"
+       inkscape:label="disk">
       <rect
          class="cls-1"
          x="170.67583"
@@ -436,18 +437,23 @@
          rx="4.769043"
          id="rect8-9-2"
          style="fill:#e6e6e6;fill-opacity:1;stroke-width:2.29428"
-         transform="matrix(-0.001616,0.2645784,-0.26457661,-0.00188567,64.881712,66.469212)" />
-      <path
-         style="fill:#333842;fill-opacity:1;stroke:#575b63;stroke-width:4.77209;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-         d="m 162.75376,179.32098 -0.0305,29.02013"
-         id="path12-1-1"
-         transform="matrix(0.26458333,0,0,0.26458333,64.881712,66.469212)" />
-      <path
-         style="fill:#333842;fill-opacity:1;stroke:#575b63;stroke-width:4.77209;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-         d="m 151.42832,179.24027 -0.0305,29.02012"
-         id="path12-3-6-5"
-         inkscape:label="path12-3"
-         transform="matrix(0.26458333,0,0,0.26458333,64.881712,66.469212)" />
+         transform="matrix(-0.001616,0.2645784,-0.26457661,-0.00188567,64.881712,66.469212)"
+         inkscape:label="diskBody" />
+      <g
+         id="g2"
+         inkscape:label="Latch">
+        <path
+           style="fill:#333842;fill-opacity:1;stroke:#575b63;stroke-width:4.77209;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 162.75376,179.32098 -0.0305,29.02013"
+           id="path12-1-1"
+           transform="matrix(0.26458333,0,0,0.26458333,64.881712,66.469212)" />
+        <path
+           style="fill:#333842;fill-opacity:1;stroke:#575b63;stroke-width:4.77209;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 151.42832,179.24027 -0.0305,29.02012"
+           id="path12-3-6-5"
+           inkscape:label="path12-3"
+           transform="matrix(0.26458333,0,0,0.26458333,64.881712,66.469212)" />
+      </g>
       <ellipse
          class="cls-3"
          cx="116.83695"
