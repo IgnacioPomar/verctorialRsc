@@ -24,17 +24,29 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="1.88"
-     inkscape:cx="295.74468"
-     inkscape:cy="156.64894"
+     inkscape:zoom="1.42"
+     inkscape:cx="296.12676"
+     inkscape:cy="156.69014"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1057"
      inkscape:window-x="-8"
-     inkscape:window-y="1102"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g27" />
   <defs
      id="defs1">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#9f9f9f;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#ebebeb;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
     <linearGradient
        id="linearGradient90"
        inkscape:collect="always">
@@ -260,6 +272,15 @@
        x2="174.7267"
        y2="172.9095"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="92.717949"
+       y1="156.85196"
+       x2="153.03555"
+       y2="103.9353"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Server"
@@ -393,7 +414,7 @@
          inkscape:label="diskLed" />
     </g>
     <path
-       style="fill:#9f9f9f;fill-opacity:1;fill-rule:evenodd;stroke:#ebebeb;stroke-width:4.911;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="fill:url(#linearGradient2);fill-opacity:1;fill-rule:evenodd;stroke:#ebebeb;stroke-width:4.911;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        d="M 35.362565,156.91482 178.52916,157.30777 150.17331,104.2248 H 60.188776 Z"
        id="path1"
        inkscape:label="3DEffect"
